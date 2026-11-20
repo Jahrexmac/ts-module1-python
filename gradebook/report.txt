@@ -1,0 +1,30 @@
+Class count: 23
+Mean score: 59.48
+Median score: 64.00
+Highest: Mia Chen (100)
+Lowest: Benjamin Hall (5)
+
+Students (highest to lowest):
+Mia Chen 100 A
+Layla Clark 100 A
+Ava Johnson 98 A
+Grace Martin 96 A
+Isabella Davis 91 A
+Sofia Thomas 87 B
+Chi 85 B
+Nora Walker 81 B
+Tolu 78 C
+Zoe Garcia 76 C
+Priya White 72 C
+Mateo Anderson 64 D
+Emeka 64 D
+Lucas Wilson 55 F
+Daniel Lee 50 F
+Noah Williams 43 F
+Elijah Harris 34 F
+Ethan Brown 28 F
+James Lewis 23 F
+Oliver Jackson 19 F
+Liam Patel 12 F
+Amara Thompson 7 F
+Benjamin Hall 5 F
